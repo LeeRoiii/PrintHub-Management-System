@@ -1,4 +1,6 @@
-The PrintHub Management System is a Python application designed to simplify and enhance print order management for printing service businesses. This user-friendly system allows for easy navigation, efficient order processing, and overall streamlined administration of print orders. Additionally, it offers flexible configurations for printing services, business location, and more.
+# PrintHub Management System
+
+The PrintHub Management System is a comprehensive Python application designed to simplify and enhance print order management for printing service businesses. This user-friendly system allows for easy navigation, efficient order processing, and overall streamlined administration of print orders. Additionally, it offers flexible configurations for printing services, business location, and more.
 
 ## Key Features
 
